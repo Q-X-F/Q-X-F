@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Q-X-F
+- 👋 #Hi, I’m @Q-X-F
 - 👀 I’m interested in problem-solving with my programming knowledge
 - 🌱 I’m currently learning Python, C and C++
 - 💞️ I’m looking to collaborate on (to be decided, I'm a new user)
