@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Q-X-F
 - 👀 I’m interested in problem-solving with my programming knowledge
-- 🌱 I’m currently learning Java, OCaml, C and Python
-- 💞️ I’m looking to collaborate on (to be decided, I'm a new user)
+- 🌱 I’m currently learning Java, OCaml, C/C++, Python and JavaScript.
+- 💞️ I’m looking to collaborate on (to be decided)
 - 📫 How to reach me: qxfchris@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I couldn't tie my shoelaces until I was 11
